@@ -14,6 +14,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Security Configuration Review: A Comprehensive Guide](https://securitycipher.com/2022/12/20/cloud-security-configuration-review/)
+- [The Importance of Secure Coding: Best Practices for Developers](https://securitycipher.com/2022/12/15/secure-coding-practices-for-developers/)
+- [ChatGPT: The Ultimate Tool for Penetration Testers](https://securitycipher.com/2022/12/10/chatgp-for-penetration-testers/)
+- [All about Ethical Hacking](https://securitycipher.com/2022/09/10/all-about-ethical-hacking/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
