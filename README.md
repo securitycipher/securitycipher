@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piyush Kumawat</h1>
-<h3 align="center">I am a passionate penetration tester from India, I have a diverse skill set that includes web, mobile, API, network, and more. In addition to these areas, I also specialize in conducting cloud security configuration reviews and implementing DevSecOps practices. Outside of my professional work, I am also a blogger, sharing my knowledge and experience with others through written content. With a strong foundation in cybersecurity and a drive to continuously learn and improve, I am committed to staying at the forefront of the industry and helping others do the same.</h3>
+<h3 align="center">I am a passionate penetration tester from India, I have a diverse skill set that includes web, mobile, API, network, and more. In addition to these areas, I also specialize in conducting cloud security configuration reviews and implementing DevSecOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=securitycipher&label=Profile%20views&color=0e75b6&style=flat" alt="securitycipher" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://securitycipher.com](https://securitycipher.com)
 
-- 📫 How to reach me **securecipher22@gmail.com**
+- 📫 How to reach me securecipher22@gmail.com
 
 - 📄 Know about my experiences [https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf](https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf)
 
@@ -26,10 +26,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=securitycipher&show_icons=true&locale=en&layout=compact" alt="securitycipher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=securitycipher&show_icons=true&locale=en" alt="securitycipher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=securitycipher&" alt="securitycipher" /></p>
