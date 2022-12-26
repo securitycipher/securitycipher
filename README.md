@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf](https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf)
 
-### Blogs posts
+### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Cloud Security Configuration Review: A Comprehensive Guide](https://securitycipher.com/2022/12/20/cloud-security-configuration-review/)
 - [The Importance of Secure Coding: Best Practices for Developers](https://securitycipher.com/2022/12/15/secure-coding-practices-for-developers/)
