@@ -14,10 +14,10 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Metlo – Open Source API Security Platform](https://securitycipher.com/2023/01/17/metlo-open-source-api-security-platform/)
 - [All about Burp Suite](https://securitycipher.com/2023/01/12/all-about-burp-suite/)
 - [Top Burp Suite Extensions used by Penetration Testers](https://securitycipher.com/2022/12/28/top-burp-suite-extension/)
 - [Cloud Security Configuration Review: A Comprehensive Guide](https://securitycipher.com/2022/12/20/cloud-security-configuration-review/)
-- [The Importance of Secure Coding: Best Practices for Developers](https://securitycipher.com/2022/12/15/secure-coding-practices-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
