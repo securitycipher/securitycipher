@@ -14,10 +14,10 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Threat Modeling : Everything You Need to Know for Web Application Security](https://securitycipher.com/2023/03/11/all-about-threat-modeling/)
 - [How to Conduct a Successful Penetration Test: A Step-by-Step Guide](https://securitycipher.com/2023/02/11/how-to-conduct-a-successful-penetration-test/)
 - [OSV-Scanner: Protecting Your Open-Source Dependencies](https://securitycipher.com/2023/01/30/osv-scanner/)
 - [Dastardly – Web Application Security Scanner – CI/CD](https://securitycipher.com/2023/01/23/dastardly-web-application-security-scanner/)
-- [Metlo – Open Source API Security Platform](https://securitycipher.com/2023/01/17/metlo-open-source-api-security-platform/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
