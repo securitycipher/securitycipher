@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://securitycipher.com](https://securitycipher.com)
 
-- 📫 How to reach me securecipher22@gmail.com
+- 📫 How to reach me hello@securitycipher.com
 
 - 📄 Know about my experiences [https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf](https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf)
 
