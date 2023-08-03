@@ -14,10 +14,7 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ZeusCloud – OpenSource Cloud Security Platform](https://securitycipher.com/2023/07/15/zeuscloud/)
-- [Threat Modeling : Everything You Need to Know for Web Application Security](https://securitycipher.com/2023/03/11/all-about-threat-modeling/)
-- [How to Conduct a Successful Penetration Test: A Step-by-Step Guide](https://securitycipher.com/2023/02/11/how-to-conduct-a-successful-penetration-test/)
-- [OSV-Scanner: Protecting Your Open-Source Dependencies](https://securitycipher.com/2023/01/30/osv-scanner/)
+- [Hello world!](https://securitycipher.com/2023/08/03/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
