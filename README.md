@@ -14,10 +14,10 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhance WordPress Security: Comprehensive Guide](https://securitycipher.com/2023/08/12/enhance-wordpress-security-comprehensive-guide/)
 - [How to Write a Killer Pentest Report](https://securitycipher.com/2023/08/05/how-to-write-a-killer-pentest-report/)
 - [ZeusCloud – OpenSource Cloud Security Platform](https://securitycipher.com/2023/07/15/zeuscloud/)
 - [Threat Modeling : Everything You Need to Know for Web Application Security](https://securitycipher.com/2023/03/11/all-about-threat-modeling/)
-- [How to Conduct a Successful Penetration Test: A Step-by-Step Guide](https://securitycipher.com/2023/02/11/how-to-conduct-a-successful-penetration-test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
