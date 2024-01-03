@@ -14,10 +14,10 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Application Security with SAST, DAST, SCA, and IAST](https://securitycipher.com/2024/01/03/sca-sast-dast-and-iast-differences/)
 - [Top Recon Tools for Bug Bounty Hunters](https://securitycipher.com/2023/11/21/top-recon-tools-for-bug-bounty-hunters/)
 - [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://securitycipher.com/2023/08/14/perform-security-testing-on-wordpress/)
 - [Enhance WordPress Security: Comprehensive Guide](https://securitycipher.com/2023/08/12/enhance-wordpress-security-comprehensive-guide/)
-- [How to Write a Killer Pentest Report](https://securitycipher.com/2023/08/05/how-to-write-a-killer-pentest-report/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
