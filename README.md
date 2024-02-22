@@ -14,10 +14,10 @@
 
 ### Latst Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM Agents can Autonomously Hack Websites ?](https://securitycipher.com/2024/02/22/llm-agents-can-autonomously-hack-websites/)
 - [$600 Simple MFA Bypass – Graphql](https://securitycipher.com/2024/02/19/simple-mfa-bypass-graphql/)
 - [Exploring Application Security with SAST, DAST, SCA, and IAST](https://securitycipher.com/2024/01/03/sca-sast-dast-and-iast-differences/)
 - [Top Recon Tools for Bug Bounty Hunters](https://securitycipher.com/2023/11/21/top-recon-tools-for-bug-bounty-hunters/)
-- [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://securitycipher.com/2023/08/14/perform-security-testing-on-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
