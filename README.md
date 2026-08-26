@@ -91,32 +91,16 @@ I publish at [securitycipher.com](https://securitycipher.com): practical playboo
 ## Featured open source
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/securitycipher/penetration-testing-roadmap">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=penetration-testing-roadmap&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="penetration-testing-roadmap" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/securitycipher/daily-bugbounty-writeups">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=daily-bugbounty-writeups&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="daily-bugbounty-writeups" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/securitycipher/awsome-websecurity-checklist">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=awsome-websecurity-checklist&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="awsome-websecurity-checklist" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/securitycipher/Bug-Bounty-Resources">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=Bug-Bounty-Resources&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="Bug-Bounty-Resources" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| Project | Stars | What it is |
+| :--- | :---: | :--- |
+| [**penetration-testing-roadmap**](https://github.com/securitycipher/penetration-testing-roadmap) | [![stars](https://img.shields.io/github/stars/securitycipher/penetration-testing-roadmap?style=flat-square&label=&color=6d7bff)](https://github.com/securitycipher/penetration-testing-roadmap) | Complete roadmap to become a pentester |
+| [**daily-bugbounty-writeups**](https://github.com/securitycipher/daily-bugbounty-writeups) | [![stars](https://img.shields.io/github/stars/securitycipher/daily-bugbounty-writeups?style=flat-square&label=&color=a855f7)](https://github.com/securitycipher/daily-bugbounty-writeups) | Curated bug bounty write-ups to study |
+| [**awsome-websecurity-checklist**](https://github.com/securitycipher/awsome-websecurity-checklist) | [![stars](https://img.shields.io/github/stars/securitycipher/awsome-websecurity-checklist?style=flat-square&label=&color=c084fc)](https://github.com/securitycipher/awsome-websecurity-checklist) | Web application security testing checklist |
+| [**Bug-Bounty-Resources**](https://github.com/securitycipher/Bug-Bounty-Resources) | [![stars](https://img.shields.io/github/stars/securitycipher/Bug-Bounty-Resources?style=flat-square&label=&color=6d7bff)](https://github.com/securitycipher/Bug-Bounty-Resources) | Handpicked tools, guides, and tips |
+| [**vulnerable-code-snippet**](https://github.com/securitycipher/vulnerable-code-snippet) | [![stars](https://img.shields.io/github/stars/securitycipher/vulnerable-code-snippet?style=flat-square&label=&color=a855f7)](https://github.com/securitycipher/vulnerable-code-snippet) | Vulnerable vs secure code examples |
+| [**guide-for-burp-suite**](https://github.com/securitycipher/guide-for-burp-suite) | [![stars](https://img.shields.io/github/stars/securitycipher/guide-for-burp-suite?style=flat-square&label=&color=c084fc)](https://github.com/securitycipher/guide-for-burp-suite) | Beginner-friendly Burp Suite guide |
+
 </div>
 
 <p align="center">
@@ -144,18 +128,18 @@ I publish at [securitycipher.com](https://securitycipher.com): practical playboo
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## GitHub pulse
+## Snapshot
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=securitycipher&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8&ring_color=a855f7" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securitycipher&layout=compact&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&text_color=c6ccd8" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/securitycipher?style=for-the-badge&logo=github&label=Followers&color=6d7bff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/securitycipher?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=a855f7" alt="Total stars" />
+  <img src="https://img.shields.io/badge/Public_repos-16-c084fc?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
+  <a href="https://securitycipher.com"><img src="https://img.shields.io/badge/Site-securitycipher.com-0b0c10?style=for-the-badge&logo=googlechrome&logoColor=c084fc&labelColor=15171f" alt="Website" /></a>
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=securitycipher&theme=radical&hide_border=true&background=0b0c10&ring=6d7bff&fire=a855f7&currStreakLabel=c084fc" alt="GitHub streak" />
-</div>
+<p align="center">
+  <sub>Live metrics via Shields.io (no flaky third-party stats widgets).</sub>
+</p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
