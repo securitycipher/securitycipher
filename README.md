@@ -1,37 +1,213 @@
+<!--
+  SecurityCipher GitHub profile README
+  Brand: https://securitycipher.com
+-->
 
-<h1 align="center">Hi 👋, I'm Piyush Kumawat</h1>
-<h3 align="center">I am a passionate penetration tester from India, I have a diverse skill set that includes web, mobile, API, network, and more. In addition to these areas, I also specialize in conducting cloud security configuration reviews and implementing DevSecOps practices.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=securitycipher&label=Profile%20views&color=0e75b6&style=flat" alt="securitycipher" /> </p>
+  <img src="./assets/banner.svg" alt="SecurityCipher - practical cybersecurity education" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/piyush_supiy" target="blank"><img src="https://img.shields.io/twitter/follow/piyush_supiy?logo=twitter&style=for-the-badge" alt="piyush_supiy" /></a> </p>
+  <br/>
 
-- 📝 I regularly write articles on [https://securitycipher.com](https://securitycipher.com)
+  <a href="https://securitycipher.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&multiline=true&width=780&height=70&lines=Staff+Product+Security+Engineer;Pentester+%7C+Bug+Bounty+Hunter;Building+securitycipher.com" alt="Typing headline" />
+  </a>
 
-- 📫 How to reach me hello@securitycipher.com
+  <p>
+    <strong>Hi, I'm Piyush Kumawat</strong> · I break things on purpose, then teach others how to find and fix them.<br/>
+    Hands-on write-ups, interactive checklists, roadmaps, and tools at
+    <a href="https://securitycipher.com"><strong>securitycipher.com</strong></a>
+  </p>
 
-- 📄 Know about my experiences [https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf](https://securitycipher.com/wp-content/uploads/2022/12/Piyush_Resume-2022.pdf)
+  <p>
+    <a href="https://securitycipher.com"><img src="https://img.shields.io/badge/Website-securitycipher.com-6d7bff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://securitycipher.com/blog/"><img src="https://img.shields.io/badge/Blog-Write--ups-a855f7?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+    <a href="mailto:hello@securitycipher.com"><img src="https://img.shields.io/badge/Email-hello%40securitycipher.com-15171f?style=for-the-badge&logo=gmail&logoColor=c084fc" alt="Email" /></a>
+    <a href="https://twitter.com/piyush_supiy"><img src="https://img.shields.io/badge/X-@piyush__supiy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  </p>
 
-### Latst Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [🛠️ Reconnaissance and Vulnerability Scanning Script🛡️](https://securitycipher.com/2024/08/14/reconnaissance-script/)
-- [LLM Agents can Autonomously Hack Websites ?](https://securitycipher.com/2024/02/22/llm-agents-can-autonomously-hack-websites/)
-- [$600 Simple MFA Bypass – Graphql](https://securitycipher.com/2024/02/19/simple-mfa-bypass-graphql/)
-- [Exploring Application Security with SAST, DAST, SCA, and IAST](https://securitycipher.com/2024/01/03/sca-sast-dast-and-iast-differences/)
-<!-- BLOG-POST-LIST:END -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=securitycipher&label=Profile%20views&color=6d7bff&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/securitycipher?label=Followers&style=flat-square&color=a855f7" alt="Followers" />
+    <img src="https://img.shields.io/badge/Focus-AppSec%20%7C%20Cloud%20%7C%20AI%2FLLM-0b0c10?style=flat-square&labelColor=15171f&color=c084fc" alt="Focus" />
+    <img src="https://img.shields.io/badge/Based-India-272b36?style=flat-square&labelColor=15171f&color=4ade80" alt="India" />
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/piyush_supiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush_supiy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush-kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumawat" height="30" width="40" /></a>
-<a href="https://instagram.com/securitycipher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="securitycipher" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/securitycipher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="securitycipher" height="30" width="40" /></a>
-<a href="/https://securitycipher.com/post-sitemap.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://securitycipher.com/post-sitemap.xml" height="30" width="40" /></a>
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## About
+
+I am a penetration tester and Staff Product Security Engineer focused on **web, API, mobile, cloud, and AI/LLM security**. Day to day that means real assessments, configuration reviews, and DevSecOps work - then turning the sharp edges into public guides so more people can test the same way.
+
+I publish at [securitycipher.com](https://securitycipher.com): practical playbooks, interactive checklists, a penetration testing roadmap, curated security tools, CVE lookup, and bug bounty write-ups.
+
+<details>
+  <summary><b>What I work on</b></summary>
+  <br/>
+
+  | Area | What that looks like |
+  | :--- | :--- |
+  | **Web & API** | AuthN/Z flaws, injection, business logic, GraphQL, IDOR/BOLA |
+  | **Cloud** | AWS / Azure / GCP config reviews, IAM, network exposure |
+  | **AI / LLM** | Prompt injection, RAG poisoning, agent & MCP security |
+  | **Bug bounty** | Recon-to-report workflows, high-signal hunting notes |
+  | **Teaching** | Roadmaps, checklists, quizzes, and field manuals |
+
+</details>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## Start here
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Learn
+- [Penetration Testing Roadmap](https://securitycipher.com/penetration-testing-roadmap/)
+- [Start Here path](https://securitycipher.com/start-here/)
+- [OWASP Top 10 Explorer](https://securitycipher.com/owasp-top-10-explorer/)
+- [Bug Bounty Playbook](https://securitycipher.com/bug-bounty-playbook/)
+- [Payload Field Manual](https://securitycipher.com/payload-cheatsheets/)
+
+    </td>
+    <td width="50%" valign="top">
+
+### Practice & reference
+- [Security Checklists hub](https://securitycipher.com/security-checklists/)
+- [Writeup Checklists](https://securitycipher.com/writeup-checklists/)
+- [Security Tools database](https://securitycipher.com/security-tools/)
+- [CVE Lookup](https://securitycipher.com/cve-lookup/)
+- [Cybersecurity Blog](https://securitycipher.com/blog/)
+
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## Featured open source
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/securitycipher/penetration-testing-roadmap">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=penetration-testing-roadmap&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="penetration-testing-roadmap" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/securitycipher/daily-bugbounty-writeups">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=daily-bugbounty-writeups&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="daily-bugbounty-writeups" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/securitycipher/awsome-websecurity-checklist">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=awsome-websecurity-checklist&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="awsome-websecurity-checklist" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/securitycipher/Bug-Bounty-Resources">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=securitycipher&repo=Bug-Bounty-Resources&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8" alt="Bug-Bounty-Resources" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/securitycipher?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse_all_repositories-0b0c10?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=15171f" alt="All repositories" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://portswigger.net/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>  </p>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=securitycipher&show_icons=true&locale=en&layout=compact" alt="securitycipher" /></p>
+## Latest from the blog
 
+<!-- BLOG-POST-LIST:START -->
+- [The CVE Flood Is a Lie: How to Hunt When AI Dumps 36% More Bugs But Exploitation Only Grows 10%](https://securitycipher.com/2026/08/25/cve-flood-triage-playbook-2026/)
+- [RAG Poisoning in 2026: A Practical Playbook for Hacking Answers Through Your Knowledge Base](https://securitycipher.com/2026/08/19/rag-poisoning-2026-practical-playbook/)
+- [Secrets That Pay: Hunting Valid Credentials with TruffleHog for Bug Bounties](https://securitycipher.com/2026/08/13/secrets-that-pay-trufflehog-bug-bounty/)
+- [Software Supply Chain Security in 2026: Packages, Pipelines, and Provenance](https://securitycipher.com/2026/08/10/software-supply-chain-security-2026/)
+<!-- BLOG-POST-LIST:END -->
 
+<p align="center">
+  <a href="https://securitycipher.com/blog/">
+    <img src="https://img.shields.io/badge/Read_more_on_the_blog-a855f7?style=for-the-badge&logo=substack&logoColor=white" alt="More posts" />
+  </a>
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## GitHub pulse
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=securitycipher&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&icon_color=a855f7&text_color=c6ccd8&ring_color=a855f7" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=securitycipher&layout=compact&theme=radical&hide_border=true&bg_color=0b0c10&title_color=6d7bff&text_color=c6ccd8" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=securitycipher&theme=radical&hide_border=true&background=0b0c10&ring=6d7bff&fire=a855f7&currStreakLabel=c084fc" alt="GitHub streak" />
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## Connect
+
+<p align="center">
+  <a href="https://twitter.com/piyush_supiy"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/piyush-kumawat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/securitycipher"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/securitycipher"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://securitycipher.com/feed/"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS" /></a>
+  <a href="mailto:hello@securitycipher.com"><img src="https://img.shields.io/badge/hello@securitycipher.com-6d7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+
+  <img src="./assets/mark.svg" width="56" alt="SecurityCipher mark" />
+
+  <p>
+    <sub>
+      Built with care for pentesters, bug bounty hunters, and security engineers.<br/>
+      <a href="https://securitycipher.com"><strong>securitycipher.com</strong></a>
+      ·
+      <a href="https://securitycipher.com/services/">Services</a>
+      ·
+      <a href="https://securitycipher.com/contact-us/">Contact</a>
+    </sub>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,26&height=120&section=footer&text=hack%20responsibly&fontSize=18&fontColor=c6ccd8&fontAlignY=70" alt="" width="100%" />
+
+</div>
